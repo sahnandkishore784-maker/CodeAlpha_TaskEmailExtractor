@@ -1,0 +1,17 @@
+How to Run the Email Extractor
+
+Prerequisites:
+- Python 3.x installed on your system
+
+Steps:
+1. Open Command Prompt or Terminal.
+2. Navigate to the project folder:
+   cd "C:\Users\Asus\OneDrive\Desktop\New folder (3)\task3_email_extractor"
+3. Run the program:
+   python email_extractor.py
+4. In the GUI:
+   - Click "Browse" next to Input File to select a .txt file.
+   - Click "Browse" next to Output File to choose where to save results.
+   - Click "Extract Emails".
+   - View extracted emails in the text area.
+   - A success message will confirm the output file path.

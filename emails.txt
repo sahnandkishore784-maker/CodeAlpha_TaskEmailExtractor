@@ -1,0 +1,7 @@
+john.doe@example.com
+jane_smith@company.org
+admin@test-site.co.uk
+manager@business.io
+support@helpdesk.net
+alice.wonder@domain.com
+bob.builder@construction.biz

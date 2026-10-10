@@ -1,0 +1,18 @@
+Contact List for Project Alpha
+Please reach out to the following team members:
+
+john.doe@example.com
+jane_smith@company.org
+admin@test-site.co.uk
+
+You can also CC: manager@business.io or support@helpdesk.net
+
+Invalid entries to ignore:
+not-an-email
+@missing-local.com
+missing-domain@.com
+user@incomplete
+
+Valid ones again:
+alice.wonder@domain.com
+bob.builder@construction.biz
